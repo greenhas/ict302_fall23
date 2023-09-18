@@ -13,3 +13,6 @@ Friends in cybersecurity, good day! Welcoming you to my cybersecurity blog is a 
 # Educational Journey
 
 It has been an absolutely exciting trip for me academically. I've started on a specialized road in this exciting industry as an enthusiastic ICT student, improving my abilities and learning the finer points of cybersecurity. I'm now engaged in a rewarding internship with Governance Risk Compliance (GRC), where I'm learning a great deal about how to analyze, manage, and mitigate cybersecurity risks in real-world settings.
+
+
+
