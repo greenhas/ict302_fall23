@@ -1,4 +1,6 @@
 baseURL = 'https://super-gumdrop-60116b.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Post'
 theme = 'ananke'
+
+
