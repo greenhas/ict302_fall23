@@ -14,5 +14,5 @@ Sarah Redmon was born in Lexington, Kentucky, and currently lives in Georgetown,
 
 ---
 
-* Article about Sarah’s Summer 2023 Internship: [https://its.uky.edu/news/information-technology-services-intern-reimagines-design-uk-student-portal](https://its.uky.edu/news/information-technology-services-intern-reimagines-design-uk-student-portal)
-* Sarah’s LinkedIn Profile: [http://www.linkedin.com/in/sarah-redmon](http://www.linkedin.com/in/sarah-redmon)
+* [Article about Sarah’s Summer 2023 Internship](https://its.uky.edu/news/information-technology-services-intern-reimagines-design-uk-student-portal)
+* [Sarah’s LinkedIn Profile](http://www.linkedin.com/in/sarah-redmon)
