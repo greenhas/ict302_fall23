@@ -5,5 +5,6 @@ draft: false
 ---
 On this page, you can find links to the bios for everyone who has contributed to this blog.
 
-
-
+1. [Matt Hill](/matt_hill)
+2. [Emma Sandman](/emma_sandman)
+3. [Sarah Redmon](/sarah_redmon)
