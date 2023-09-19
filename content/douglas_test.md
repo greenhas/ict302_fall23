@@ -4,14 +4,14 @@ date: 2023-09-16T10:30:51-02:00
 draft: false
 ---
 
-![picture of me](https://ibb.co/y6Rvjrt)
+![](https://i.ibb.co/8rBvZHq/ddda.jpg)
 
 ## [LinkedIn](https://www.linkedin.com/in/douglas-loia-8005b727a/)
 
-### About Me
+# About Me
 Hello! My name is Douglas Loia and I am 19 year old from San Jose California and I currently attend the University of Kentucky with a major of Information Communication Technology.
 
-Hobbies Outside of the Classroom
+# Hobbies Outside of the Classroom
 Passion for Basketball
 
 Beyond the digital realm, I find solace on the basketball court. This sport not only keeps me physically active but also instills invaluable lessons in teamwork, discipline, and perseverance. Whether in friendly matches or intense competitions, the court is where I refine not only my skills, but also my character.
