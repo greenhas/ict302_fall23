@@ -1,7 +1,7 @@
 ---
 title: "Santosh Gautam"
 date: 2023-09-14T10:05:32-04:00
-draft: true
+draft: false
 ---
 ![picture of Santosh Gautam](https://media.licdn.com/dms/image/C5603AQESKbwnorV8RA/profile-displayphoto-shrink_400_400/0/1662072822373?e=1700092800&v=beta&t=zbdcmMg_WW1hc00KK2wlmIgdB82uN_tk--NWx86a6d0)
 # Here is a link to my [linkedIn profile](www.linkedin.com/in/gautams431)
