@@ -4,7 +4,7 @@ date: 2023-09-16T10:30:51-02:00
 draft: false
 ---
 
-![](https://ibb.co/y6Rvjrt)
+![](https://i.ibb.co/8rBvZHq/ddda.jpg)
 
 ## [LinkedIn](https://www.linkedin.com/in/douglas-loia-8005b727a/)
 
