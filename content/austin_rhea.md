@@ -12,6 +12,7 @@ Hi! My name is Austin Rhea, and I’m an ICT major at the University of Kentucky
 
 ## Education
 Information Communication Technology major, University of Kentucky
+
 Graduated from Highlands High School in 2022
 
 
