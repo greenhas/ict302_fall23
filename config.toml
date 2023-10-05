@@ -2,3 +2,8 @@ baseURL = 'https://super-gumdrop-60116b.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke_custom'
+
+[taxonomies]
+	category = 'categories'
+	tag = 'tags'
+	author = 'author'
