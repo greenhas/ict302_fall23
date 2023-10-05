@@ -1,8 +1,5 @@
 ---
-menu:
-    main:
-        name: Home
-        weight: -100
-        params:
-            icon: home
+title: "ICT 302"
 ---
+
+Welcome to our ICT 302 Hugo site! You can learn more about us by visiting our [About page](/about)
