@@ -2,9 +2,11 @@
 title: "About Nathan Shelton"
 date: 2023-09-19T10:05:36-04:00
 draft: false
+tags: ["Senior", "Gym", "Kentucky", "Biography"]
 ---
+
 # Past & Present Me 
-Hello, my name is Nathan Shelton, I am a senior at the Univeristy of Kentucky studying Information Communication Technology. I come from a smaller town in Kentucky called Grayson County. GC has about 33,000 people and UKY has roughly the same amount of students! I transferred from a technical college in Elizabethtown Kentucky where I really developed a passion for Information Systems and Cybersecurity so I decided to pursue it at a higher level. Outside of my studies, I love to exercise. Back home in GC I worked at a gym while attending school, where I cultivated a passion for fitness and helping others. You can learn more about [the gym](https://www.made4morefitness.com/) and [Grayson County](https://www.graysoncountyky.gov/) here. 
+Hello, my name is Nathan Shelton, I am a senior at the Univeristy of Kentucky studying Information Communication Technology. I come from a smaller town in Kentucky called Grayson County. GC has about 33,000 people and UKY has roughly the same amount of students! I transferred from a technical college in Elizabethtown Kentucky where I really developed a passion for Information Systems and Cybersecurity so I decided to pursue it at a higher level. Outside of my studies, I love to exercise. Back home in GC I worked at a gym while attending school, where I cultivated a passion for fitness and helping others. You can learn more about [the gym](https://www.made4morefitness.com/) and [Grayson County](https://www.graysoncountyky.gov/) here.
 
 ![gym staff helping a gym member](/hugoimage.png)
 
