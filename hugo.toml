@@ -1,4 +1,18 @@
 baseURL = 'https://super-gumdrop-60116b.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'diary'
+theme = 'ananke'
+
+[menu]
+[[menu.main]]
+name = 'Home'
+url ='/'
+weight = 10
+[[menu.main]]
+name = "About"
+url = '/about'
+weight = 20
+[[menu.main]]
+name = "Posts"
+url = '/posts'
+weight = 30
