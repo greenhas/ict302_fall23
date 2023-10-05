@@ -2,6 +2,7 @@
 title: "Obaid"
 date: 2023-09-18T18:05:49-04:00
 draft: false
+tag = "tags"
 ---
 ![picture of me](https://media.licdn.com/dms/image/D5635AQGDmAwNHRAC1Q/profile-framedphoto-shrink_400_400/0/1695090532347?e=1695697200&v=beta&t=zQI475kAARDrYTSc2M3qeXcXiMNAeBVPCvigcAnygMU)
 
