@@ -1,6 +1,7 @@
 ---
-title: "Author Bio of Sarah Redmon"
+title: "Sarah Redmon"
 date: 2023-09-14T09:55:26-04:00
+author: "Sarah Redmon"
 draft: false
 ---
 

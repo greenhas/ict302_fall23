@@ -1,6 +1,7 @@
 ---
 title: "Levi McCauley"
 date: 2023-09-14T10:05:32-04:00
+author: "Levi McCauley"
 draft: false
 ---
 ![picture of Levi McCauley](https://media.licdn.com/dms/image/C4D03AQHuEd1otLE40Q/profile-displayphoto-shrink_800_800/0/1632336322765?e=1700092800&v=beta&t=JDvHhXUsvz0Has7ni7ZvGzOwR2CkhMroHxVVIcd1J4Q)

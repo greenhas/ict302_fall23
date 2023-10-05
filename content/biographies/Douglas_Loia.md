@@ -1,6 +1,7 @@
 ---
 title: "Douglas Loia"
 date: 2023-09-16T10:30:51-02:00
+author: "Douglas Loia"
 draft: false
 ---
 
