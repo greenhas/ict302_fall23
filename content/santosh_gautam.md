@@ -1,6 +1,7 @@
 ---
 title: "Santosh Gautam"
 date: 2023-09-14T10:05:32-04:00
+author: "Santosh Gautam"
 draft: false
 tags: ["Junior", "Nepal"]
 ---

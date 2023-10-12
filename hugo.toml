@@ -1,4 +1,30 @@
 baseURL = 'https://super-gumdrop-60116b.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'ananke_custom'
+
+[taxonomies]
+	author = 'author'
+	tags = 'Biography'
+	
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+[[menu.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+[[menu.main]]
+    name = 'Authors'
+    pageRef = '/author'
+    weight = 30
+
+[[menu.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40

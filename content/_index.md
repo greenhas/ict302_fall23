@@ -1,8 +1,6 @@
 ---
-title: ""
-date: 2023-09-14T09:50:45-04:00
-draft: false
+title: "ICT 302"
+tags: ["Kentucky", "Major"]
 ---
-Welcome to our ICT 302 blog!
 
-You can read more about us on the [About page](/about).
+Welcome to our ICT 302 Hugo site! For more information about this page please visit [here](/about).
