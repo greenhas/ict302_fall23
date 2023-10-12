@@ -5,7 +5,7 @@ theme = 'ananke_custom'
 
 [taxonomies]
 	author = 'author'
-
+	tags = 'Biography'
 	
 
 [menu]
