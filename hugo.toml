@@ -4,9 +4,9 @@ title = 'My New Hugo Site'
 theme = 'ananke_custom'
 
 [taxonomies]
-	category = 'categories'
-	tag = 'tags'
 	author = 'author'
+	tags = 'Biography'
+	
 
 [menu]
 [[menu.main]]
@@ -37,7 +37,7 @@ theme = 'ananke_custom'
 [[menu.main]]
     name = 'ICT in the News'
     pageRef = '/tags/ict-in-the-news'
-    wight = 60
+    weight = 60
 
 [[menu.main]]
    name = 'Issue Introductions'
