@@ -1,6 +1,7 @@
 ---
 title: "Keenan Rhodes"
 date: 2023-09-14T10:05:40-04:00
+author: "Keenan Rhodes"
 draft: false
 ---
 ![Picture of Dat Dawg](https://www.theknot.com/tk-media/images/8f6ef7bf-b8f9-49a9-a2d6-e28338bc4bce~rt_auto-cr_0.1529.4640.3849-rs_768.h?ordering=explicit)
