@@ -4,9 +4,9 @@ title = 'My New Hugo Site'
 theme = 'ananke_custom'
 
 [taxonomies]
-	category = 'categories'
-	tag = 'tags'
 	author = 'author'
+	tags = 'Biography'
+	
 
 [menu]
 [[menu.main]]
