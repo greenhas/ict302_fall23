@@ -4,8 +4,13 @@
     <article class="center cf pv5 ph3 ph4-ns mw7">
       <header>
         <h1 class="f1">
-          {{ .Title }}
+        {{ $taxonomy := "author" }}
+        {{ with .GetTerms $taxonomy }}
+          <p>{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+        {{ end }}
+        {{ end }}
         </h1>
+
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{ .Content }}
