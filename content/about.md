@@ -3,10 +3,11 @@ title: "About"
 date: 2023-09-14T09:56:21-04:00
 draft: false
 ---
-On this page, you can find links to the bios for everyone who has contributed to this blog.
+# About ICT 302 
 
-1. [Matt Hill](/matt_hill)
-2. [Emma Sandman](/emma_sandman)
-3. [Sarah Redmon](/sarah_redmon)
-4. [Douglas Loia](/douglas_test)
-5. [Nick Wadley](/nick_wadley)
+This website integrates all our work from ICT 302 and ICT 315 at the University of Kentucky. ICT 302: Content Management Systems focuses on designing, building, and maintaining content management systems. It is cohorted with ICT 315: Human Relations and Technology, which discusses human-centered approaches with technology to meet individuals' needs. 
+
+Each author has written a series of posts in ICT 315 related to a variety of social issues in today's society. These have then been published and organized onto this site. Using our knowledge from ICT 302, we have determined the best way to organize and aggregate this content. 
+
+All of the authors are students at the University of Kentucky. You can see a complete list of the authors and their posts using the Authors tab at the top. 
+
