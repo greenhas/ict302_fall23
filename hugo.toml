@@ -28,3 +28,18 @@ theme = 'ananke_custom'
     name = 'About'
     pageRef = '/about'
     weight = 40
+
+[[menu.main]]
+    name = 'Infographics'
+    pageRef = '/tags/infographic'
+    weight = 50
+
+[[menu.main]]
+    name = 'ICT in the News'
+    pageRef = '/tags/ict-in-the-news'
+    wight = 60
+
+[[menu.main]]
+   name = 'Issue Introductions'
+   pageRef = '/tags/issue-introductions'
+   weight = 70

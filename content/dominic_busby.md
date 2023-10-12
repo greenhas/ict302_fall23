@@ -1,7 +1,7 @@
 ---
 title: "Dominic Busby"
 date: 2023-09-28T10:05:32-04:00
-tags: ["ICT 302", "Biography", "Sophomore", "Dominic Busby", "Infographic", "Issue Introductions", "ICT in the News"]
+tags: ["ICT 302", "Biography", "Sophomore", "Dominic Busby"]
 draft: false
 ---
 ![picture of Dominic Busby](https://media.licdn.com/dms/image/D4E03AQFe4SgO9s-LhA/profile-displayphoto-shrink_100_100/0/1694703306030?e=1701302400&v=beta&t=_OaU3IbHsZeucuy5qci9i8O3zF9cK2xxcZPbC31zUmg)
