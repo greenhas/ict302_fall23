@@ -1,6 +1,7 @@
 ---
 title: "Austin Rhea"
 date: 2023-09-14T10:05:36-04:00
+author: "Austin Rhea"
 draft: false
 ---
 

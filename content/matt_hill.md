@@ -1,6 +1,7 @@
 ---
-title: "Matt Hill Bio"
+title: "Matt Hill"
 date: 2023-09-14T10:05:43-04:00
+author: "Matt Hill"
 draft: false
 ---
 ![an image of Matt Hill](https://i.imgur.com/r3deh0A.jpg)

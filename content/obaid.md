@@ -1,6 +1,7 @@
 ---
 title: "Obaid"
 date: 2023-09-18T18:05:49-04:00
+author: "Obaid"
 draft: false
 tag = "tags"
 ---
