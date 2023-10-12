@@ -1,6 +1,7 @@
 ---
 title: "Emma Sandman"
 date: 2023-09-14T10:30:55-04:00
+author: "Emma Sandman"
 draft: false
 ---
 

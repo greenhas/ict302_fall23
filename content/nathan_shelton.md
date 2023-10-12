@@ -1,6 +1,7 @@
 ---
-title: "About Nathan Shelton"
+title: "Nathan Shelton"
 date: 2023-09-19T10:05:36-04:00
+author: "Nathan Shelton"
 draft: false
 tags: ["Senior", "Gym", "Kentucky", "Biography"]
 ---

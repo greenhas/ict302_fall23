@@ -1,6 +1,7 @@
 ---
-title: "About Nick Wadley"
+title: "Nick Wadley"
 date: 2023-09-14T10:05:36-04:00
+author: "Nick Wadley"
 draft: false
 tags: ["Georgia", "Tee Higgins", "NBA"]
 ---
