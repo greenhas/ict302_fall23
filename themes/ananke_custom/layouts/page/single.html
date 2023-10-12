@@ -6,7 +6,7 @@
         <h1 class="f1">
         {{ $taxonomy := "author" }}
         {{ with .GetTerms $taxonomy }}
-          <p>{{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+          <p>{{ range . }}{{ .LinkTitle }} <a href="{{ .RelPermalink }}">(all posts)</a></p>
         {{ end }}
         {{ end }}
         </h1>
