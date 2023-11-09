@@ -1,5 +1,6 @@
 ---
-title: "Dominic Busby"
+title: "Dominic Busby" 
+author: "Dominic Busby"
 date: 2023-09-28T10:05:32-04:00
 tags: ["ICT 302", "Biography", "Sophomore", "Dominic Busby"]
 draft: false
