@@ -28,3 +28,7 @@ theme = 'ananke_custom'
     name = 'About'
     pageRef = '/about'
     weight = 40
+[[menu.main]]
+    name = 'kentucky'
+    pageRef = '/tags/kentucky/'
+    weight = 50
