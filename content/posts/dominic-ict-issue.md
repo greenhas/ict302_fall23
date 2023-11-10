@@ -1,7 +1,7 @@
 ---
 title: "TikTok’s Effect on Children’s Mental Health"
 date: 2023-11-09T13:54:34-05:00
-tags: ["TikTok","Issue Introductions","mental health","screen time"]
+tags: ["TikTok","Issue Introduction","mental health","screen time"]
 author: "Dominic Busby"
 draft: false
 show_reading_time: TRUE

@@ -29,6 +29,14 @@ theme = 'ananke_custom'
     pageRef = '/about'
     weight = 40
 [[menu.main]]
-    name = 'kentucky'
-    pageRef = '/tags/kentucky/'
+    name = 'Issue Introduction'
+    pageRef = '/tags/issue introduction/'
+    weight = 50
+[[menu.main]]
+    name = 'Infographic'
+    pageRef = '/tags/infographic/'
+    weight = 50
+[[menu.main]]
+    name = 'ICT in the News'
+    pageRef = '/tags/ict in the news/'
     weight = 50
