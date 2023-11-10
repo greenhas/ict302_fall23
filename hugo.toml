@@ -5,7 +5,7 @@ theme = 'ananke_custom'
 
 [taxonomies]
 	author = 'author'
-	tags = 'Biography'
+	tags = 'tags'
 	
 
 [menu]
@@ -30,7 +30,7 @@ theme = 'ananke_custom'
     weight = 40
 [[menu.main]]
     name = 'Issue Introduction'
-    pageRef = '/tags/issue introduction/'
+    pageRef = '/tags/Issue-Introduction/'
     weight = 50
 [[menu.main]]
     name = 'Infographic'
@@ -38,5 +38,5 @@ theme = 'ananke_custom'
     weight = 50
 [[menu.main]]
     name = 'ICT in the News'
-    pageRef = '/tags/ict in the news/'
+    pageRef = '/tags/ict-in-the-news/'
     weight = 50
