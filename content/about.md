@@ -1,5 +1,7 @@
 ---
 title: "About"
+
+featured_image: '/20201208_094917.jpg'
 date: 2023-09-14T09:56:21-04:00
 draft: false
 ---
