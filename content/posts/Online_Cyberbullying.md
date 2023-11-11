@@ -8,6 +8,7 @@ tags: ["Issue Introduction","Cyberbullying","Online","Bullying"]
 ---
 **Online Cyberbullying**
 *Whom does it affect?* <br>
+<br>
 Thus, mental health treatment became necessary due to cyberbullying in teenagers. So far, my focus of this blog is
 how teens are affected by cyberbullying. The purpose of this is to raise awareness that cyber bullying happens to
 teens and how it can be mitigated or stopped. The reason that teenagers are targeted for cyberbullying tactics and
