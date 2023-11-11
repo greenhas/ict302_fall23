@@ -7,6 +7,7 @@ tags: ["Issue Introduction","Cyberbullying","Online","Bullying"]
 
 ---
 **Online Cyberbullying**
+
 *Whom does it affect?*
 
 Thus, mental health treatment became necessary due to cyberbullying in teenagers. So far, my focus of this blog is
@@ -17,12 +18,15 @@ and they are very impulsive. Furthermore, cyberbullying happens all the time and
 these teenagers.
 
 *What is the topic?*
+
 As we all know, cyberbullying is a well-known subject matter across any field. It is important to talk about how cyberbullying affects our teenagers. According to Webster’s Dictionary their definition of cyberbullying is different than my own definition, they define cyberbullying to be a mean spirited, hated filled activity that is anonymous which is done through posts that are electronic that does not just target people in general but even more specifically students (Webster, 1996).
 
 *Who is involved?*
+
 What typically happens during a cyberbullying situation is the person who is committing the act of cyberbullying has a little bit of protection since they are hiding behind a screen. This affects teenagers in their mental health and in their life overall. Furthermore, those specific teenagers who have experienced cyberbullying may have also experienced depression at higher rates, anxiety at higher rates, loneliness, at a tremendously high rates and suicidal behavior at the highest degree possible (Newport, Academy 2023). Parents should teach their children what the guidelines are for and how to use online safety features to combat cyberbullying
 
 *“Solutions to the issue”*
+
 This blog's purpose is to give information on how cyberbullying or online harassment can be avoided or mitigated.  
 
 The most common sites for cyberbullying are Facebook, followed by Twitter, and Snapchat. These include:
