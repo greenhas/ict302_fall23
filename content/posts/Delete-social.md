@@ -1,7 +1,7 @@
 ---
 title: "Delete Your Social Media"
 date: 2023-09-19T09:11:16-04:00
-tags: ["Issue Introductions","social media","Gen Z", "mental health", "America"]
+tags: ["Issue Introduction","social media","Gen Z", "mental health", "America"]
 author: Nathan Shelton
 show_reading_time: TRUE
 ---
