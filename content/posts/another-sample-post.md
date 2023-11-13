@@ -1,7 +1,7 @@
 ---
 title: "Another Sample Post"
 date: 2023-09-19T09:11:16-04:00
-tags: ["content","presentation","sample posts"]
+tags: ["content","presentation","sample posts", "Infographic", "Issue Introductions", "ICT in the News"]
 author: Anonymous Contributor
 show_reading_time: TRUE
 ---
