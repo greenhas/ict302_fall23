@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: false
 title: "Cybersecurity and ICT"
 date: 2023-11-13T09:04:30-04:00
 tags: ["content","Issue Introduction","Cybersecurity","ICT"]
