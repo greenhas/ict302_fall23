@@ -2,7 +2,7 @@
 draft: "false"
 title: "Starlink and Our Future"
 tags: ["Starlink", "Issue Introduction", "Internet"]
-date: 2023-11-09T09:11:16-04:00
+date: 2023-11-14T09:11:16-04:00
 author: "Drew Tschanz"
 show_reading_time: TRUE
 ---
