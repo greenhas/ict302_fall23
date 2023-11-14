@@ -8,11 +8,11 @@ Procrastination and distractions are like those sneaky little monsters that pop 
 
 ## The Parties Involved
 
-You and I are not the only ones handling this. Basically, it is all of us. We are all in this together, folks—everyone who has ever said to themselves, "I'll do it later," or who falls into the social media or cat video black hole.
+You and I are not the only ones handling this. Basically, it is all of us. We are all in this together, folks everyone who has ever said to themselves, "I'll do it later," or who falls into the social media or cat video black hole.
 
 ## The Goal and Objective
 
-Basically, we are here to discuss the causes of our procrastination, distractions, and—above all—how to break these annoying behaviors. Together, we can devise some tactics to regain focus and accomplish our goals!
+Basically, we are here to discuss the causes of our procrastination, distractions, and above all how to break these annoying behaviors. Together, we can devise some tactics to regain focus and accomplish our goals!
 
 ## Blog Body
 
@@ -33,6 +33,4 @@ Although willpower is frequently thought to be the primary factor in procrastina
 ### The World of Distractions - Oh boy, we live in a world full of distractions, don't we?
 
 Social media, notifications, Netflix, you name it. Let's chat about these attention-stealers and how they lure us in.
-
-... [Continue with the rest of your content]
 
