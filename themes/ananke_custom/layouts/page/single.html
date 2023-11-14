@@ -10,19 +10,21 @@
         {{ end }}
         {{ end }}
         </h1>
-		{{ with .Params}}
-			{{with .tags }}
-			<div class="tags">
-				Tags: {{ range . }}
-					<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-				{{ end }}
-			</div>
-		{{ end }}
-	{{ end }} 
-	 </header>
+      </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{ .Content }}
       </div>
     </article>
   </div>
+<footer>
+{{ with .Params}}
+            {{with .tags }}
+            <div class="tags">
+                Tags: {{ range . }}
+                    <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
+</footer>
 {{ end }}
