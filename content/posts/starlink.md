@@ -1,7 +1,9 @@
 ---
+draft: "false"
 title: "Starlink and Our Future"
 tags: ["Starlink", "Issue Introduction", "Internet"]
 author: "Drew Tschanz"
+show_reading_time: TRUE
 ---
 
 Hey guys, today I want to talk about some cool recent technology that is changing the world: **Starlink Satellite Internet**.
