@@ -3,7 +3,7 @@ title: "Consumer Data Privacy"
 date: 2023-11-14T08:15:00-05:00
 tags: ["consumer data privacy","consumer data","privacy","Issue Introduction"]
 author: "Austin Rhea"
-draft: FALSE
+draft: "false"
 ---
 
 For my blog, I wanted to discuss an ICT topic that impacts everyone but isn’t thought about a lot. There are a lot of interesting issues being given attention right now, like AI, social media, and cybersecurity. But one that I think is far more applicable to many people’s everyday life and should be given as much attention as the ones I listed previously, is consumer data privacy. We provide our data to businesses every day through a variety of different transactions, including using credit or debit cards, reserving hotels, or paying interest. People are making these kinds of transactions every day, and without the proper protection, this data could be at risk of falling into the wrong hands. In this blog, I’ll discuss consumer data privacy, who is affected and how they are affected by it, and some examples of the laws and policies that have been passed to address the issue.  
