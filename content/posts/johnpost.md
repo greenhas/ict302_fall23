@@ -1,8 +1,9 @@
 ---
 title: "Winning the Battle Against Procrastination and Distractions"
-date: 2023-09-19T09:04:30-04:00
-tags: "content","presentation"," Issue Introduction and Background ","Winning the Battle Against Procrastination and Distractions"
-author: "Hauck, John"
+date: 2023-11-09T13:54:34-05:00
+tags: ["TikTok","Issue Introduction","mental health","screen time"]
+author: "John Hauck"
+draft: false
 show_reading_time: TRUE
 ---
 
