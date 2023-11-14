@@ -1,9 +1,8 @@
 ---
 title: "Winning the Battle Against Procrastination and Distractions"
-date: 2023-11-13T13:54:34-05:00
-tags: ["Distraction","Procrastination","mental health","introduction"]
+date: 2023-11-11T09:04:30-04:00
+tags: ["content","presentation","sample posts","Star Trek","Riker","Jonathan Frakes"]
 author: "John Hauck"
-draft: false
 show_reading_time: TRUE
 ---
 
@@ -42,6 +41,4 @@ Although willpower is frequently thought to be the primary factor in procrastina
 ### The World of Distractions - Oh boy, we live in a world full of distractions, don't we?
 
 Social media, notifications, Netflix, you name it. Let's chat about these attention-stealers and how they lure us in.
-
-... [Continue with the rest of your content]
 
