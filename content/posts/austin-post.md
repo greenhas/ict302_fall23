@@ -20,9 +20,14 @@ On the bright side, the US government has acted on this issue recently. For exam
 #### Closing Thoughts
 For future blog posts, I want to talk more in-depth about some of the potential harms for those affected, including possibly discussing some personal accounts of issues like identity theft and financial fraud. I also want to explore some modern and effective ways that an individual can protect themselves from these issues, including encrypting your data and having your data backed up so it can be recovered in case of a disaster. Lastly, I want to highlight some laws that have been passed regarding data privacy, to show how the government is aiding in fighting this problem, as well as some bills that have been struck down, to investigate some reasons behind not passing these laws.
 
+
 #### References
 Gillis, A., Lutkevich, B. What is Consumer Privacy? TechTarget Data Management. [https://www.techtarget.com/searchdatamanagement/definition/consumer-privacy](https://www.techtarget.com/searchdatamanagement/definition/consumer-privacy)
+
 Gupta, S., Moutafis, P., Schneider, M. (2021, June 29). To Protect Consumer Data, Don’t Do Everything on the Cloud. Harvard Business Review. [https://hbr.org/2021/06/to-protect-consumer-data-dont-do-everything-on-the-cloud](https://hbr.org/2021/06/to-protect-consumer-data-dont-do-everything-on-the-cloud)
+
 Sales, F. What is consumer data? TechTarget CIO. [https://www.techtarget.com/searchcio/definition/consumer-data](https://www.techtarget.com/searchcio/definition/consumer-data)
+
 Sevilla, G. (2022, December 13). 33% of consumers are victims of data breaches on companies that are tasked with keeping their data safe. Insider Intelligence. [https://www.insiderintelligence.com/content/33-of-consumers-victims-of-data-breaches-on-companies-that-tasked-with-keeping-their-data-safe](https://www.insiderintelligence.com/content/33-of-consumers-victims-of-data-breaches-on-companies-that-tasked-with-keeping-their-data-safe)
+
 State of California Department of Justice. (2018, October 15). California Consumer Privacy Act (CCPA). State of California - Department of Justice - Office of the Attorney General. [https://oag.ca.gov/privacy/ccpa](https://oag.ca.gov/privacy/ccpa)
