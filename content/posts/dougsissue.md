@@ -1,7 +1,7 @@
 ---
 title: "Digital Bill of Rights "
 date: 2023-11-14T09:04:30-04:00
-tags: ["Issue Introduction and Background","Digital Bill of Rights"]
+tags: ["Issue Introduction","Digital Bill of Rights"]
 author: "Douglas Loia"
 show_reading_time: TRUE
 ---
