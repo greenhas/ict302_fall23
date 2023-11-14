@@ -1,3 +1,12 @@
+---
+draft: false
+title: "Winning the Battle Against Procrastination and Distractions"
+date: 2023-11-09T09:04:30-04:00
+author: "Hauck John"
+tags: ["Issue Introduction", "Winning the Battle Against Procrastination and Distractions"]
+
+---
+
 # Winning the Battle Against Procrastination and Distractions
 
 Hey there, friends! Today, let's dive into the wild world of procrastination and distraction. We all know that feeling of putting things off or getting sidetracked when we've got stuff to do. Let's break it down and see how we can win this battle against procrastination and distractions.
