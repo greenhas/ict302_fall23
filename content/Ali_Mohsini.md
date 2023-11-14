@@ -1,7 +1,7 @@
 ---
 title: "Bio Page"
 date: 2023-09-14T10:05:32-04:00
-author: "Ali Reza"
+tags: {"UK","Cybersecurity"}
 ---
 ![picture of Ali Reza](https://media.licdn.com/dms/image/D5603AQG8J9Ae7BoFAw/profile-displayphoto-shrink_200_200/0/1694618022318?e=1700092800&v=beta&t=EQV9N_3nPxkwpAEBFawx1WcfNb3g43Y2d-HR_b04J94) 
 
