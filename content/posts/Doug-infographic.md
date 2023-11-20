@@ -5,6 +5,6 @@ tags: ["Infographic","Data","laws"]
 author: "Douglas Loia"
 ---
 
-This infographic showcases what your data privacy rights are.
+This infographic showcases what your data privacy rights are in the digital age. Created by Douglas Loia.
 
 ![Digital Data and Privacy Laws infographic](/DouglasInfo.jpg)
