@@ -1,5 +1,5 @@
 ---
-title: "Checking Information on Online Platforms"
+title: "Checking for Misinformation on Online Platforms"
 date: 2023-11-19T16:19:15-05:00
 draft: false
 tags: ["Online Misinformation", "Infographic", "Cyber Awareness"]
