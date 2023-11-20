@@ -8,4 +8,4 @@ author: Santosh Gautam
 
 The purpose of this infographic is to inform you guys of various methods to try and spot online misinformation. Hopefully, all of the information looks clean, professional, and is accessible to everyone. Hope you guys enjoy it!
 
-![Online Misinformation Infographic](/santosh_infographic2.jpg)
+![Online Misinformation Infographic](/santosh_infographic.jpg)
