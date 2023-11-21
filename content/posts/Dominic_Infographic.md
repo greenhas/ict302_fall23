@@ -1,5 +1,5 @@
 ---
-title: "How to mitigate effect of Tiktok"
+title: "How to mitigate the effects of Tiktok"
 date: 2023-11-21T01:15:02-05:00
 draft: false
 tags: ["Tiktok", "Infographic"]
