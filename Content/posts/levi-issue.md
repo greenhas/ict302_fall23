@@ -1,7 +1,7 @@
 ---
 title: "Remote Work: Navigating ICT, Infastructure, and Burnout in the Modern Workplace"
 date: 2023-09-19T09:04:30-04:00
-tags: ["content","presentation"," Issue Introduction and Background ","Remote Work",""
+tags: ["content","presentation"," Issue Introduction and Background ","Remote Work"] 
 author: "Levi McCauley"
 show_reading_time: TRUE
 ---
