@@ -5,7 +5,7 @@ tags: ["ICT 302", "Biography", "Sophomore", "Dominic Busby", "Infographic", "Iss
 draft: false
 ---
 ![picture of Dominic Busby](https://media.licdn.com/dms/image/D4E03AQFe4SgO9s-LhA/profile-displayphoto-shrink_100_100/0/1694703306030?e=1701302400&v=beta&t=_OaU3IbHsZeucuy5qci9i8O3zF9cK2xxcZPbC31zUmg)
-# [LinkedIn](www.linkedin.com/in/dominic-busby-b04912244)
+# [LinkedIn](https://www.linkedin.com/in/dominic-busby-b04912244)
 ## About Me
 Hello! I am Dominic Busby, a sophomore at the University of Kentucky studying Information Communication Technology (ICT). A little bit more about me, I enjoy watching and playing sports (Go Cats!) as well as spending time with my friends. I am the treasurer of the University’s club frisbee team, and I believe we have the potential to make some noise this year. I also recently joined the cards club and have had fun learning new games and meeting new people. Outside of these, I am more than likely enjoying some time to myself, which I value heavily.
 
