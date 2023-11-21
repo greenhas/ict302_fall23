@@ -1,7 +1,7 @@
 ---
-draft: false
 title: "Cybersecurity and ICT"
 date: 2023-11-13T09:04:30-04:00
+draft: false
 tags: ["content","Issue Introduction","Cybersecurity","ICT"]
 author: "Ali Reza Mohsini"
 show_reading_time: TRUE
@@ -24,11 +24,11 @@ Cybersecurity can also affect cryptographers by emphasizing the critical role th
 The purpose of the blog is to provide an overview of the field of cybersecurity, highlighting its significance in today's interconnected world and discussing the roles of various professionals in the cybersecurity domain, such as cybersecurity specialists, analysts, network administrators, cryptographers, penetration testers, and Chief Information Security Officers (CISOs). The blog aims to inform readers about the importance of cybersecurity in protecting digital assets and sensitive information from cyber threats. It also emphasizes the essential responsibilities and expertise required for professionals in the cybersecurity sector. The comprehensive discussion aims to raise awareness about the critical role played by cybersecurity professionals in safeguarding organizations against cyber threats and ensuring the security of data and networks.
 
 #### References
-Cybersecurity career pathway. Cyberseek. (n.d.). https://www.cyberseek.org/pathway.html
-How to become a cryptographer. Western Governors University. (2021, November 17). https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#close 
-The Ciso Role: What does a chief information security officer do?. Splunk. (2022, November 22). https://www.splunk.com/en_us/blog/learn/chief-information-security-officer-ciso-role.html 
-Written by  Cybersecurity Guide Contributors – Last updated: October 23. (2023, October 23). Cybersecurity Specialist Careers: Your essential roadmap. Cybersecurity Guide. https://cybersecurityguide.org/careers/security-specialist/ 
-What is a network administrator? - definition from Techopedia. (n.d.). https://www.techopedia.com/definition/8548/network-administrator 
-What is cybersecurity?: CISA. Cybersecurity and Infrastructure Security Agency CISA. (2023, October 27). https://www.cisa.gov/news-events/news/what-cybersecurity 
+[Cybersecurity career pathway. Cyberseek. (n.d.).](https://www.cyberseek.org/pathway.html)
+[How to become a cryptographer. Western Governors University. (2021, November 17).](https://www.wgu.edu/career-guide/information-technology/cryptographer-career.html#close) 
+[The Ciso Role: What does a chief information security officer do?. Splunk.(2022, November 22).](https://www.splunk.com/en_us/blog/learn/chief-information-security-officer-ciso-role.html) 
+Written by  Cybersecurity Guide Contributors – Last updated: October 23. (2023, October 23). [Cybersecurity Specialist Careers: Your essential roadmap. Cybersecurity Guide.](https://cybersecurityguide.org/careers/security-specialist/) 
+[What is a network administrator? - definition from Techopedia. (n.d.).](https://www.techopedia.com/definition/8548/network-administrator) 
+[What is cybersecurity?: CISA. Cybersecurity and Infrastructure Security Agency CISA. (2023, October 27).](https://www.cisa.gov/news-events/news/what-cybersecurity)
 
 
