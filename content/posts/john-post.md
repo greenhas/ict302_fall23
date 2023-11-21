@@ -2,7 +2,7 @@
 title: "Winning the Battle Against Procrastination and Distractions"
 date: 2023-11-11T09:04:30-04:00
 tags: ["content","presentation","sample posts","Star Trek","Riker","Jonathan Frakes"]
-author: "John Hauck"
+author: "Obaid Hazrat"
 show_reading_time: TRUE
 ---
 
