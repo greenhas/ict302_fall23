@@ -9,8 +9,6 @@ tags: ["How the topic is framed:","Included and Excluded Information:
 author: "Ali Reza Mohsini"
 show_reading_time: TRUE
 ---
-https://www.[ThelinktotheNews:
-](https://cybernews.com/news/british-library-ransom-attack-leak-confirmed-rhysida/)
 
 # The goal of the news article 
 
