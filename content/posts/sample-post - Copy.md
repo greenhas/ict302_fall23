@@ -24,7 +24,7 @@ I decided to do more extensive research regarding differences between introverts
 	After giving a brief overview of what it truly means to be visually impaired, what assistive technology is defined as, and the many different types of assistive technology available for students, I wanted to quickly close this by expressing the importance of assistive technology for the visually impaired in not only learning environments, but in everyday life environments and situations as well. I chose this particular type of technology because I can personally relate to being visually impaired and I’ve used most of the assistive technology I mentioned earlier in this episode. Although vast improvements are being made each and every day, I still feel the need to discuss this in a fun, educational way and to also make people who may not be too familiar with what it truly means to be visually impaired, even if it may sound obvious in the name. I also feel it is important to advocate for free assistive technology and resources for all levels of the education system, especially underprivileged school districts, but including every school district and college university in America.
 					
 
-                          # References
+                           References
 Assistive technology for the visually impaired: Examples and development specifics. ITRex. (2022, February 9). Retrieved March 22, 2023, from https://itrexgroup.com/blog/assistive-technology-for-visually-impared-examples-development-tips/#
 
 Overview of assistive technology for families with a child with blindness or low vision. FamilyConnect. (2023, January 25). Retrieved March 22, 2023, from https://familyconnect.org/assistive-technology/an-overview/
