@@ -6,7 +6,7 @@ author: "John Hauck"
 draft: false
 ---
 # Article Summary
-I would say this was a great [article](https://www.jmir.org/2023/1/e42483) to write about because it offered an open and broad view of alternative medicine, telehealth, and how the “digital divide” affects it. Additionally, the author provided solutions and alternatives that were supposed to help Brazilians during the COVID-19 pandemic. In the article, they explore and discuss the potential benefits of quick access, cost efficiency, and better health results. At the same time, the article highlights how the digital divide is the number 1 enemy of remote medical services and how challenging it is to overcome it, including lots of data and statistics presented by their research prompt.  
+I would say this was a great [article](https://www.jmir.org/2023/1/e42483) to write about because it offered an open and broad view of alternative medicine, telehealth, and how the “digital divide” affects it. Additionally, the author provided several solutions that were supposed to help Brazilians during the COVID-19 pandemic. In the article, they explore and discuss the potential benefits of quick access, cost efficiency, and better health results. At the same time, the article highlights how the digital divide is the number 1 enemy of remote medical services and how challenging it is to overcome it, including lots of data and statistics presented by their research prompt.  
 
 # Information Utilization
 ## Included Information
