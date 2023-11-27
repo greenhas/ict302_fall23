@@ -9,8 +9,7 @@ tags: ["How the topic is framed:","Included and Excluded Information:
 author: "Ali Reza Mohsini"
 show_reading_time: TRUE
 ---
-https://www.[ThelinktotheNews:
-](https://cybernews.com/news/british-library-ransom-attack-leak-confirmed-rhysida/)
+
 
 # The goal of the news article 
 
@@ -46,4 +45,5 @@ The ransomware attack that the British Library experienced offers insightful inf
 
 The news effectively informs the public about the cybersecurity incident at the British Library, presenting a clear and accessible narrative. It balances the severity of the situation with reassurances about the library's ongoing services. While some technical details are omitted, this can be seen as a deliberate choice to avoid unnecessary complexity in communication. Language, evidence, and context align with standard practices in reporting cybersecurity incidents involving major institutions.
 
-
+https://www.[ThelinktotheNews:
+](https://cybernews.com/news/british-library-ransom-attack-leak-confirmed-rhysida/)
