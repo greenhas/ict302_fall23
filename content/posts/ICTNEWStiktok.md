@@ -1,0 +1,31 @@
+---
+title: TikTok and Mental Health
+date: 2023-11-28
+tags:  ["TikTok", "Mental Health", "ICT in the News"]
+author: Dominic Busby
+show_reading_time: TRUE
+---
+
+# Exploring the Impact of TikTok on Mental Health
+
+The University of Minnesota also noticed that TikTok was affecting the mental health of its users, and decided to break down why in April of this year. In their article, they talk about a lot of the topics I mentioned in my previous blog post, and they mention some other ideas that I would like to look further into. While their article does not specifically have children in mind, I still think the topics and ideas in the article are extremely applicable. Some of these topics and ideas include that TikTok has a “not interested” button, people gravitate towards people who are in similar situations, TikTok is different than other social media platforms, and the way people use TikTok. These ideas were achieved through a study the University did and the results are fascinating.
+
+## The "Not Interested" Button
+
+One of the ideas mentioned in the article was that TikTok has a “not interested” button that is supposed to deter similar content from showing back up on your For You page. According to the study, this button did little to ensure that this was the case. I liked that they mentioned this information because I find it interesting that TikTok would offer a button that does not do all that much. I also like that this information was found through a study because it at the very least makes me feel like the information is more trustworthy and high quality. However, I wish the authors went into more detail about why this may be the case. I have a theory that takes an idea from my last blog post. TikTok may only care about showing you content that it thinks you will watch, so it relies a lot more on its algorithm than your personal input to decide which videos you will see. While this may or may not be true, something to stir ideas as to why this may be would have been appreciated. Outside of this, however, the authors did a great job relaying this idea to the overall theme of the article by mentioning that it is even more difficult to find your way out of “the spiral,” as I like to call it, when the button that is supposed to help does not work.
+
+## Gravitating Towards Similar Situations
+
+Additionally, the article mentions the idea that people gravitate towards people who are in similar situations so as to not feel lonely. This is something I talked about in my previous blog post as well, but they add that gravitating toward others may not be a bad thing at first. It might actually be beneficial. But because of TikTok’s persistent algorithm that shows you limitless similar content, it eventually becomes bad for your mental health. This is because instead of reaping the benefits of not feeling lonely anymore, you tack on the drawbacks of added stress and anxiety. These are ideas that I brought up in my previous blog post, but these authors went into a little more detail, talking about how TikTok is not inherently bad and why the repetitive content takes a toll on people’s mental health. I feel as though this information is important to keep in mind and is something I wish I had found to put in my blog post.
+
+## TikTok's Uniqueness in Social Media
+
+Furthermore, an additional idea in this article is that TikTok is significantly different than other social media platforms. Platforms such as Instagram and X mainly focus on showing you the content of people you follow. So it is on you to go out and follow the people you want to follow and get their content on your feed. On the contrary, TikTok relies heavily on its algorithm to determine the content you see. I focused a lot on TikTok’s algorithm in my last blog post, but the idea that TikTok is different than other social media platforms is not something I mentioned. It is an idea worth thinking about though. Because TikTok is so different, it has a completely different appeal to it, which makes it so successful. With its huge success, many people will flock to the app only to fall down the spiral that I have talked about so much. While it is not impossible to do it on other platforms, it is a lot more likely on TikTok because of its algorithm. All of this is to say that TikTok plays a larger role in the mental health crisis than other platforms, and we now know why.
+
+## The "Dopamine Slot Machine"
+
+Finally, the last idea in this article is the way people use TikTok. The article mentions that one of the members of the study referred to TikTok’s For You page as a “dopamine slot machine.” This refers to the tendency of some people to not want to end their TikTok session on a bad video. This, of course, means that these people will scroll and scroll until they find a good video, similar to gamblers using slot machines who spin until they win. The issue with this is gamblers often lose money. Similarly, those scrolling until they find a good video may not find one, which again makes it incredibly difficult to find your way out of the spiral. I like the analogy of TikTok’s For You page to a “dopamine slot machine” because I feel like it provides a visual for readers so they can fully understand how much of an issue TikTok can be.
+
+## Conclusion
+
+Overall, this article harps on a lot of ideas that I talked about in my last blog post, but they also elaborated on some of these ideas, mainly why TikTok’s persistent algorithm contributes to poor mental health, which is why I wanted to look more into it. I feel as though the authors of this article did a great job of tying their thoughts to the theme by talking about multiple ideas that all go back to TikTok affecting mental health. They do this in a short and sweet manner that is easy to follow. In some areas there may have been opportunities to expand some more on their thoughts, and I mention where above. I do admire the authors, though, because the topic is inherently negative, but I feel as though they did a great job at trying to keep TikTok in a neutral light. Doing so is not always an easy thing to accomplish. A wonderful job was done by the authors of this article, and I would be interested to see if they had anything else to add about the findings of the study.
