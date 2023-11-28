@@ -40,3 +40,8 @@ theme = 'ananke_custom'
     name = 'ICT in the News'
     pageRef = '/tags/ict-in-the-news/'
     weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
