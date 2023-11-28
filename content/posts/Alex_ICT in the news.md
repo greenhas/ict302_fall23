@@ -1,6 +1,6 @@
 ---
 title: "Introverted and Extroverted Personalities"
-date: 2023-11-28T14:03:04-05:00
+date: 2023-11-27T14:03:04-05:00
 tags: ["ICT in the News", "Introvert", "Extrovert", "Information"]
 author: "Alex Head"
 draft: false
