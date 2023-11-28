@@ -1,5 +1,5 @@
 ---
-title: "ICT Topics Relevant in Hosted Broadcasts"
+title: "ICT Topics Relevant in Broadcast Media"
 date: 2023-11-27T11:31:23-05:00
 draft: false
 tags: ['ICT in the news','ICT','news']
