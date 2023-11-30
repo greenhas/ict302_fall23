@@ -40,3 +40,7 @@ theme = 'ananke_custom'
     name = 'ICT in the News'
     pageRef = '/tags/ict-in-the-news/'
     weight = 50
+[[menu.main]]
+    name = 'Media Recommendation'
+    pageRef = '/tags/media-recommendation/'
+    weight = 50
