@@ -6,7 +6,7 @@ author: Dominic Busby
 show_reading_time: TRUE
 ---
 
-# Ted Talk by Tom Osborn
+# "A New Way to Help Young People with Their Mental Health" by Tom Osborn
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tom_osborn_a_new_way_to_help_young_people_with_their_mental_health" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 Tom Osborn is from Kenya and in his TED talk he talks about the mental health crisis, specifically in Kenya. Some statistics Tom mentioned that stuck out to me were that half of those 19 or younger in Kenya experience some symptoms of mental health issues, and that half of Kenya is 19 or younger. That means that about 25% of Kenya’s population suffers some kind of mental health issues. The thing Tom really does not like about this is the current approach towards mental health.   
