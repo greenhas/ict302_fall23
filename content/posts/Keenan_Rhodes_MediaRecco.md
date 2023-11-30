@@ -1,7 +1,7 @@
 ---
 title: "Emotional Intelligence: A Life Skill"
 date: 2023-11-30T09:11:16-04:00
-tags: ["content", Media Reccomendation]
+tags: ["content", Media Recomendation]
 author: Keenan Rhodes
 show_reading_time: TRUE
 ---
