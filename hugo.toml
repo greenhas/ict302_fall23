@@ -44,3 +44,10 @@ theme = 'ananke_custom'
     name = 'Media Recommendation'
     pageRef = '/tags/media-recommendation/'
     weight = 50
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
