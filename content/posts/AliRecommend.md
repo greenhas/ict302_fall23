@@ -3,7 +3,7 @@ title: "The Internet Immune System"
 date: 2023-11-19T16:19:15-05:00
 draft: false
 tags: ["Media Recommendation", "internet", "Hackers"]
-author: "Ali Moshini"
+author: "Ali Reza Mohsini"
 ---
 
 # The Internet Immune System #
