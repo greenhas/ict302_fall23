@@ -1,0 +1,20 @@
+---
+title: "The Internet Immune System"
+date: 2023-11-19T16:19:15-05:00
+draft: false
+tags: ["Media Recommendation", "internet", "Hackers"]
+author: "Ali Moshini"
+---
+
+# The Internet Immune System #
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+In this TED Talk, Keren Elazari discusses the role of hackers as the immune system of the internet. She emphasizes the positive aspects of hacking, such as finding vulnerabilities before malicious actors can exploit them, and the importance of hackers in driving innovation. She also provided many examples. One of the examples was finding a gap in Facebook which could lead to user information breakup. The hacker informed Mark Zuckerberg by posting on his Facebook timeline.  Facebook fixed that problem but did not appreciate the hacker who informed them. On the other hand, he claimed that he deserved to be paid for what he figured out.  
+
+Being a globally renowned cybersecurity specialist with years of expertise in the industry, Keren Elazari is well-suited to talk about cybersecurity. She has contributed to cybersecurity research and worked as a security analyst for a number of companies.
+
+Because she has practical experience in the industry and is committed to promoting a positive view of hackers as vital contributors to the security of the digital world, Elazari is a reliable source. Keren Elazari's credibility is derived from her own experience in the field of cybersecurity. Her position as a security analyst demonstrates that she has hands-on expertise in spotting and mitigating security risks. Her contributions to cybersecurity research also show a dedication to expanding the field's body of knowledge. Her reputation as a well-respected person in the cybersecurity profession has been cemented by her speaking engagements at multiple conferences and events. Her TED Talk itself suggests that her thoughts are valued outside of the cybersecurity industry and is evidence of her recognition in the larger public domain.
+
+For those interested in cybersecurity, this TED Talk is helpful since it offers a new viewpoint on the function of hackers and how they contribute to a safer online environment. It promotes a more nuanced view of the people essential to safeguarding digital systems and helps debunk some widespread myths about hacking. This TED Talk has the potential to have a big influence. By showing hackers as essential to the internet's defense and dispelling the myth that they are just malevolent actors, it challenges popular conceptions of them. As a teaching tool, the lecture helps a non-technical audience learn about the benefits that ethical hackers bring to the table and develops a greater awareness of the complexity of cybersecurity. It highlights the benefits of ethical hacking on digital security and may encourage more people to pursue careers in cybersecurity, making it an inspiration for anyone thinking about a future in the industry. Furthermore, the discussion could influence a change in perspective by supporting the idea that ethical hackers are allies rather than enemies, encouraging and encouraging ethical hacking practices.
+
+The public and cybersecurity experts can both benefit from seeing Keren Elazari's TED Talk on hackers and the internet's defense mechanism. Her viewpoint is strengthened by her credibility, which is based on her real-world experience and active participation in cybersecurity. The talk's importance in the larger conversation on cybersecurity is highlighted by its capacity to alter public opinions, educate the public, motivate aspiring experts, and encourage ethical hacking practices. Although viewers should always use critical thinking skills, Keren Elazari's TED Talk is an insightful and thought-provoking addition to the conversation on cybersecurity and hacking.
