@@ -8,7 +8,7 @@ author: "Obaid Hazrat"
 # Author Background
 This TED Talk's speaker, Tim Urban, is an illustrator, writer, and blogger. He is one of the co-founders of the site "Wait But Why", where he writes amusing, in-depth articles with graphics that cover a wide range of issues. Even though Tim Urban isn't a conventional expert in productivity or psychology, his TED Talk explores the common problem of procrastination and offers a fresh viewpoint that appeals to a wide range of listeners. 
 
-# His Talk:
+# His Talk
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tim_urban_inside_the_mind_of_a_master_procrastinator" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 # Credibility 
