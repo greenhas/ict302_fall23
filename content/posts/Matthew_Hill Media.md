@@ -7,8 +7,8 @@ show_reading_time: TRUE
 ---
 
 # "How deepfakes undermine truth and threaten democracy" by Danielle Citron
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_dem
-ocracy?language=en&subtitle=en" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
 
 I chose to analyze Danielle Citron’s ted talk titled “How deep fakes undermine truth and
 threaten democracy”. This speech highlights the stories around the world that showcase the
