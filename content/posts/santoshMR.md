@@ -1,10 +1,10 @@
 ---
 title: "Fighting Misinformation on Social Media"
-date: 2023-12-05T07:49
+date: 2023-12-04T20:00:00-04:00
 tags: ["Media Recommendation","Social Media","Gen Z", "Misinformation"]
 author: Santosh Gautam
 show_reading_time: TRUE
-draft: FALSE
+draft: false
 ---
 # ICT 315 - Analysis of TED Talk "Fighting Misinformation on Social Media"
 
