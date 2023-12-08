@@ -2,7 +2,7 @@
 title: "Protected Online Data"
 date: 2023-11-30T09:11:16-04:00
 tags: ["content", Media Recommendation]
-author: Austin Rhea
+author: "Austin Rhea"
 show_reading_time: TRUE
 ---
 
